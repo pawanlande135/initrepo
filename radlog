@@ -1,0 +1,11 @@
+NVD000010I [RADSKMAN       ] 11:24:54 [RADSKMAN / 00000ee0] Agent2-Win11 ---  [RADSKMAN] is resuming in [Execute_radpinit]
+NVD000010I [radical        ] 11:24:54 [RADSKMAN / 00000ee0] Agent2-Win11 ---  Re-Connecting to [\\.\Pipe\RadiaUI0:1400]
+NVD000010I [radical        ] 11:24:54 [RADSKMAN / 00000ee0] Agent2-Win11 ---  connected to ui [\\.\Pipe\RadiaUI0]
+NVD000000I [Execute_radpini] 11:24:54 [RADSKMAN / 00000ee0] Agent2-Win11 ---  RADPINIT pinit_rc:[0] - [Request successfully completed]
+NVD000010V [RADSKMAN       ] 11:24:54 [RADSKMAN / 00000ee0] Agent2-Win11 ---  Driver timout value set to:[0]
+NVD000000A [EDM_EXIT       ] 11:24:54 [RADSKMAN / 00000ee0] Agent2-Win11 ---  RADSKMAN Exit code [650]
+NVD000010I [send_message_to] 11:24:55 [RADSKMAN / 00000ee0] Agent2-Win11 ---  Sending shutdown message to the system tray.
+NVD000000W [EDM_EXIT       ] 11:24:56 [RADSKMAN / 00000ee0] Agent2-Win11 --?  ZTIMEQ does not exist
+NVD000010I [radical        ] 11:24:56 [RADSKMAN / 00000ee0] Agent2-Win11 ---  End UI session message [650]
+NVD000010I [radical        ] 11:24:56 [RADSKMAN / 00000ee0] Agent2-Win11 ---  Uninitialize UI
+NVD000001A [close_log_file ] 11:24:58 [RADSKMAN / 00000ee0] Agent2-Win11 ---  Closing log file on [Fri Oct 18 11:24:58 2024]
